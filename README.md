@@ -110,10 +110,6 @@ The `template.json` file uses a simple format to define editable fields:
 - People who value function over form
 - Developers who think "it's just a config panel, why am I spending days on this?"
 
-## License
-
-MIT
-
 ## Contributing
 
 Pull requests welcome. The bar is intentionally low - it's called "Bare Minimum" for a reason.
